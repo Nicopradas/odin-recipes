@@ -1,4 +1,13 @@
 h1 {
     text-align: center;
     font-family: fantasy,sans-serif;
+    text-transform: uppercase;
+}
+.recipes {
+    font-family:"Courier New", sans-serif;
+    font-weight: bold;
+
+}
+body {
+    background-color: beige;
 }
