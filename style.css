@@ -23,14 +23,33 @@ ol.ej {
 }
 img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: auto;
+    margin: 0 auto;
 
 }
-.ing {
+.ingr {
     background-color: rgb(182, 92, 92);
     color: white;
     font-weight: bold;
+    width: 800px;
+    margin: 0 auto;
+    border: 5px dotted white;
+    padding:50px 50px 50px 500px;
+    display: inline-block;
+    text-align: left;    
+    
+}
+.ingb{
+    background-color: rgb(92, 95, 182);
+    color: white;
+    font-weight: bold;
+    width: 800px;
+    margin: 0 auto;
+    border: 5px dotted white;
+    padding:50px 50px 50px 500px;
+    display: inline-block;
+    text-align: left;    
+    
 }
 
 
@@ -40,4 +59,8 @@ img {
 }
 .centerdiv{
     text-align: center;
+    
+}
+.center{
+    text-align: center; 
 }
